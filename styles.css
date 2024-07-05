@@ -91,4 +91,5 @@ h1 {
   height: 40px;
   border-radius: 100%;
   margin-right: 10px;
+  object-fit: cover;
 }
